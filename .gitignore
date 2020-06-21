@@ -1,0 +1,4 @@
+*.json
+exenv/
+*.pyc
+.idea/
